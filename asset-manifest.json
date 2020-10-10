@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.1c1a07c2.chunk.css",
-    "main.js": "/static/js/main.637a2329.chunk.js",
-    "main.js.map": "/static/js/main.637a2329.chunk.js.map",
+    "main.css": "/static/css/main.5404e6b6.chunk.css",
+    "main.js": "/static/js/main.0bc6092b.chunk.js",
+    "main.js.map": "/static/js/main.0bc6092b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f3a02c50.js",
     "runtime-main.js.map": "/static/js/runtime-main.f3a02c50.js.map",
-    "static/js/2.646c0052.chunk.js": "/static/js/2.646c0052.chunk.js",
-    "static/js/2.646c0052.chunk.js.map": "/static/js/2.646c0052.chunk.js.map",
+    "static/js/2.d0bdef30.chunk.js": "/static/js/2.d0bdef30.chunk.js",
+    "static/js/2.d0bdef30.chunk.js.map": "/static/js/2.d0bdef30.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c84721354a5d331c92c763394a3dbdf8.js": "/precache-manifest.c84721354a5d331c92c763394a3dbdf8.js",
+    "precache-manifest.06f2ebd550f253a0ad56a9491625ff6c.js": "/precache-manifest.06f2ebd550f253a0ad56a9491625ff6c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.1c1a07c2.chunk.css.map": "/static/css/main.1c1a07c2.chunk.css.map",
-    "static/js/2.646c0052.chunk.js.LICENSE.txt": "/static/js/2.646c0052.chunk.js.LICENSE.txt",
+    "static/css/main.5404e6b6.chunk.css.map": "/static/css/main.5404e6b6.chunk.css.map",
+    "static/js/2.d0bdef30.chunk.js.LICENSE.txt": "/static/js/2.d0bdef30.chunk.js.LICENSE.txt",
     "static/media/cp-f1tenth.png": "/static/media/cp-f1tenth.ee9ddbc8.png",
     "static/media/cp-hcucla.png": "/static/media/cp-hcucla.920ac702.png",
+    "static/media/cp-lovelyluxe.png": "/static/media/cp-lovelyluxe.81b74f9f.png",
     "static/media/cp-moreproj.png": "/static/media/cp-moreproj.5182141a.png",
     "static/media/cp-personalweb.png": "/static/media/cp-personalweb.8f39251f.png",
     "static/media/dnh-logo.png": "/static/media/dnh-logo.e1fe7998.png",
@@ -21,14 +22,18 @@
     "static/media/igopen.png": "/static/media/igopen.e8d57f72.png",
     "static/media/in.png": "/static/media/in.922fba25.png",
     "static/media/inopen.png": "/static/media/inopen.2ef1b296.png",
+    "static/media/ll-1.png": "/static/media/ll-1.f3d9d384.png",
+    "static/media/ll-2.mov": "/static/media/ll-2.2aaa3d02.mov",
+    "static/media/logo-process.png": "/static/media/logo-process.e68ebe48.png",
     "static/media/mail.png": "/static/media/mail.df11c385.png",
     "static/media/me.jpg": "/static/media/me.7c21dc66.jpg",
-    "static/media/openmail.png": "/static/media/openmail.ce6dc526.png"
+    "static/media/openmail.png": "/static/media/openmail.ce6dc526.png",
+    "static/media/website-process.png": "/static/media/website-process.324f5531.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f3a02c50.js",
-    "static/js/2.646c0052.chunk.js",
-    "static/css/main.1c1a07c2.chunk.css",
-    "static/js/main.637a2329.chunk.js"
+    "static/js/2.d0bdef30.chunk.js",
+    "static/css/main.5404e6b6.chunk.css",
+    "static/js/main.0bc6092b.chunk.js"
   ]
 }
