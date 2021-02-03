@@ -1,47 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b440cf17a7a1a094a7f9f11028370fe",
+    "revision": "1523ab2a7270dbb0d412b12c7ddc816b",
     "url": "/index.html"
   },
   {
-    "revision": "051b9c1e7992326388e2",
-    "url": "/static/css/main.c1257e78.chunk.css"
+    "revision": "9a56c0f46504d7d8e256",
+    "url": "/static/css/main.9d3c8cd2.chunk.css"
   },
   {
-    "revision": "750fdde68fea9ce9efbf",
-    "url": "/static/js/2.27095ec5.chunk.js"
+    "revision": "d52e7f755378caa7c7a4",
+    "url": "/static/js/2.8da66f6c.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.27095ec5.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.8da66f6c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "051b9c1e7992326388e2",
-    "url": "/static/js/main.df3881a7.chunk.js"
+    "revision": "9a56c0f46504d7d8e256",
+    "url": "/static/js/main.fc0f0c9b.chunk.js"
   },
   {
     "revision": "2060b9a7e54a59ab7b07",
     "url": "/static/js/runtime-main.f3a02c50.js"
   },
   {
-    "revision": "ee9ddbc89c1e5fec17d37f5261baca3b",
-    "url": "/static/media/cp-f1tenth.ee9ddbc8.png"
+    "revision": "651434eb602906985028c80ce09ee9e0",
+    "url": "/static/media/CombinePreferencesandWishLists.651434eb.pdf"
   },
   {
-    "revision": "920ac7024cb14d7284318cd25bfd8498",
-    "url": "/static/media/cp-hcucla.920ac702.png"
+    "revision": "c1f4d6c6666eb2f2d773b63e0697e81f",
+    "url": "/static/media/Menuexpand.c1f4d6c6.pdf"
   },
   {
-    "revision": "81b74f9f0be8f6aab5160d219896cf2c",
-    "url": "/static/media/cp-lovelyluxe.81b74f9f.png"
+    "revision": "4edc6722ecc2a508ca9ee3c2c625c390",
+    "url": "/static/media/NavigationBar.4edc6722.pdf"
   },
   {
-    "revision": "5182141a34ac7e8523c7feb1c9f74cae",
-    "url": "/static/media/cp-moreproj.5182141a.png"
+    "revision": "6ea6482791df3eb41efe5077c3429ad2",
+    "url": "/static/media/cp-f1tenth.6ea64827.png"
   },
   {
-    "revision": "8f39251fff1499524245b9dbdee2cb18",
-    "url": "/static/media/cp-personalweb.8f39251f.png"
+    "revision": "d2472038f9bf444fcbe6961e75c02bba",
+    "url": "/static/media/cp-giftster.d2472038.png"
+  },
+  {
+    "revision": "43de1ae74b0471c879aa08cb0333d670",
+    "url": "/static/media/cp-hcucla.43de1ae7.png"
+  },
+  {
+    "revision": "2ab75e789a3a834cca203cc4c6d6fb02",
+    "url": "/static/media/cp-lovelyluxe.2ab75e78.png"
   },
   {
     "revision": "e1fe7998e460b6354b33c4ae6cb4e198",
